@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "793655347953",
+    "firebase_url": "https://hazardtracker-888-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hazardtracker-888",
+    "storage_bucket": "hazardtracker-888.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793655347953:android:0fd2c3e95d90d6431a3750",
+        "android_client_info": {
+          "package_name": "com.example.ohmyhazard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgV9zk-hDuXD5DXXw6_anNyt5Ly3fnDtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793655347953:android:cf1ee0a5e3dd765c1a3750",
+        "android_client_info": {
+          "package_name": "com.example.ohmyhazrd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgV9zk-hDuXD5DXXw6_anNyt5Ly3fnDtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

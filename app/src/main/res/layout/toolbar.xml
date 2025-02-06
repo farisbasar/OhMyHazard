@@ -1,0 +1,28 @@
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="#FBA518"
+    android:elevation="4dp">
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/warning"
+        android:background="@android:color/transparent"
+        android:layout_gravity="start|left"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="@string/open" />
+
+    <!-- Custom Drawer Button on Right Center -->
+    <ImageButton
+        android:id="@+id/drawer_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_menu"
+        android:background="@android:color/transparent"
+        android:layout_gravity="end|center_vertical"
+        android:layout_marginEnd="16dp"
+        android:contentDescription="@string/open" />
+</androidx.appcompat.widget.Toolbar>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Oh My Hazard</string>
+    <string name="home">Home</string>
+    <string name="news">News</string>
+    <string name="report">Report</string>
+    <string name="profile">About Us</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
