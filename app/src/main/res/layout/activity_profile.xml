@@ -157,7 +157,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:autoLink="web"
-                    android:text="https://github.com/?????"
+                    android:text="https://github.com/farisbasar/OhMyHazard"
                     android:textColorLink="@color/link"
                     android:layout_gravity="center"
                     android:textSize="16sp"
