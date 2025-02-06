@@ -316,7 +316,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void shareApp() {
-        String shareText = "Check out this app for real-time hazard reports! Download now: https://play.google.com/store/apps/details?id=com.example.ohmyhazrd";
+        String shareText = "Check out this app for real-time hazard reports! Github: https://github.com/farisbasar/OhMyHazard";
         Intent shareIntent = new Intent(Intent.ACTION_SEND);
         shareIntent.setType("text/plain");
         shareIntent.putExtra(Intent.EXTRA_TEXT, shareText);
